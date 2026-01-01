@@ -1,18 +1,8 @@
 # Concrete Crack Detection For Structural Audit
 
 
-## Getting Started
 
-1) Clone Repo
-    ```
-    $ git clone https://github.com/viraja1/crack_detection.git
-    ```
-2) Change directory
-    ```
-    $ cd crack_detection
-    ```
-
-3) Install Requirements
+1) Install Requirements
     ```
     $ pip install -r requirements.txt
     ```
@@ -28,7 +18,7 @@
    ```
    $ python app.py
    ``` 
-6) Open http://127.0.0.1:8080 in browser and use the UI to test concrete crack detection
+6) Open http://127.0.0.1:8080 in browser and use the UI to test crack detection
 
 7) Try CURL requests
    ```
